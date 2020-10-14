@@ -1,0 +1,58 @@
+.mainbox {
+    width: 1286px;
+    height: 700px;
+    background: #56836F;
+    border: solid 2px #006837;
+    margin: 40px;
+}
+.Logo {
+    float: right;
+    margin: 49px 55.9px 0px 0px;
+}
+.navtext {
+    font-size: 48px;
+    color: #FFFFFF;
+    width: 700px;
+    margin: 36.2px 0px 0px 177.5px;
+}
+.text {
+    float: right;
+    padding-right: 30px;
+    font-family: 'Myriad Pro';
+}
+.active {
+    color: #FFFFFF;
+}
+.box1 {
+    background-color: #FCEE21;
+    float: right;
+    width: 523px;
+    height: 356px;
+    margin: 63.5px 112px 80px 18px;
+}
+.box2 {
+    background-color: #FCEE21;
+    float: right;
+    width: 523px;
+    height: 356px;
+    margin-top: 63.5px;
+}
+.articlimage {
+    float: right;
+    margin: 20px 20px 20px 20px;
+}
+.paragrap1 {
+    margin: 30px 0px 15px 30px;
+    font-size: 14px;
+    color: #006837;
+    font-family: 'Segoe UI';
+}
+.paragrap2 {
+    margin: 0px 0px 0px 30px;
+    font-size: 14px;
+    color: #006837;
+    font-family: 'Segoe UI';
+}
+.clear {
+    clear: both;
+}
